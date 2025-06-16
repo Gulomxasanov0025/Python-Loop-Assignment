@@ -1,3 +1,4 @@
+# Kiritilgan so‘zda nechta gap borligini aniqlang
 matn = input("Matn kiriting: ")
 gap_soni = 0
 

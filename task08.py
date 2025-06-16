@@ -1,3 +1,4 @@
+# Parol tasdiqlovchi
 parol = "python123"
 
 for urinish in range(3):

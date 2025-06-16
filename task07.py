@@ -1,3 +1,4 @@
+# Foydalanuvchidan 5 ta son olib, eng kattasini aniqlang
 eng_katta = None
 
 for i in range(5):

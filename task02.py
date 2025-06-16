@@ -1,3 +1,4 @@
+#  Raqamdagi raqamlar yig‘indisini hisoblang
 son = input("Son kiriting: ")
 yigindi = 0
 

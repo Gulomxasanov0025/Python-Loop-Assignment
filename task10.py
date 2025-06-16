@@ -1,3 +1,4 @@
+# Son o‘yini: FizzBuzz varianti
 n = int(input("Bir son kiriting: "))
 
 for i in range(1, n+1):

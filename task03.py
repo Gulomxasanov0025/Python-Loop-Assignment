@@ -1,3 +1,4 @@
+#  So‘zdagi katta harflarni sanang
 matn = input("Matn kiriting: ")
 katta_sana = 0
 katta_harf = "  "

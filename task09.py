@@ -1,3 +1,4 @@
+# PIN kod ochish o‘yini
 import random
 
 pin = random.randint(1000, 9999)
